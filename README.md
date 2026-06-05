@@ -7,6 +7,15 @@
 </p>
 
 <p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+🚀;AWS+Cloud+Enthusiast+☁️;Data+Analytics+%26+Machine+Learning+📊;Always+Learning+New+Technologies+📚""
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SarthakGaurkhede&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/SarthakGaurkhede?style=for-the-badge&logo=github"/>
 </p>
