@@ -104,9 +104,9 @@ Databases
 <!--                   TECH STACK / SKILLS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-##📊 GitHub Statistics
+## 📊 GitHub Statistics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakGaurkhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakGaurkhede&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakGaurkhede&theme=tokyonight&hide_border=true&layout=compact" /> </div>
-##📈 Activity Graph
+## 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakGaurkhede&theme=tokyo-night&hide_border=true" width="95%" /> </div>
 ##🐍 Contribution Snake
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg"> </picture>
