@@ -148,14 +148,17 @@ interests:
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 
 ## 🧩 Competitive Programming
@@ -185,7 +188,7 @@ interests:
 ## ⏱️ Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarthakGaurkhede&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 </div>
 
 > 💡 Connect your WakaTime account and add the WakaTime plugin to your IDE to enable live coding time tracking.
