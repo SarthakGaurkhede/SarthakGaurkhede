@@ -15,25 +15,27 @@
 
 ---
 
-## 👨‍💻 About Me
+
+
+## 🧑‍💻 About Me
 
 ```yaml
 name: Sarthak Gaurkhede
-
+location: "City, Country 🌍"
 role: AI/ML Engineer | Full Stack Developer
-
-education:
-  B.Tech Computer Science & Engineering
+company: "Open to Work"
+education: "B.Tech Artificial Intelligence and Machine Learning— Your University"
 
 currently:
-  - Building AI-powered applications
-  - Learning AWS Cloud & DevOps
-  - Solving DSA on LeetCode
-  - Exploring LLMs and Generative AI
+  - "🔭 Building: AI-Based Adaptive Learning Platform with Knowledge Gap Detection"
+  - "🌱 Learning: Kubernetes · Rust · WebAssembly"
+  - "👯 Looking to collaborate on: Open Source & SaaS Projects"
+  - "💬 Ask me about: React, Node.js, System Design, DSA"
 
-experience:
-  - Data Analyst Intern @ Arohi Software Development
-  - Full Stack Developer Intern @ Sancy Global Technologies
+fun_facts:
+  - "⚡ I debug with console.log and I'm not ashamed"
+  - "☕ Coffee → Code → Repeat"
+  - "🎯 2025 Goal: Contribute to 10 open source projects"
 
 leadership:
   - Google DSC Technical Lead
@@ -50,6 +52,13 @@ interests:
   - Data Analytics
 🚀 Featured Projects
 🧠 Oral Cancer Detection using VGG16
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 GITHUB STATS — 3-COLUMN GRID                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 Deep Learning • TensorFlow • OpenCV • Medical Imaging
 
@@ -110,6 +119,7 @@ Advanced Data Engineering
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> <div align="center">
 ⭐ If you like my projects, consider giving them a star!
 </div> ```
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 GITHUB STATS — 3-COLUMN GRID                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -326,3 +336,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <div align="center">
 <sub>⭐ If you find my work useful, consider giving it a star! It means a lot 🙏</sub>
 </div>
+
+
+
+
