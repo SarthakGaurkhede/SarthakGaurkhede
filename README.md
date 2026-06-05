@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarthak%20Gaurkhede&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+🤖;Full+Stack+Developer+🚀;AWS+Cloud+Enthusiast+☁️;Data+Analytics+%26+Machine+Learning+📊;Always+Learning+New+Technologies+📚" />
