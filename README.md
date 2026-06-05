@@ -101,13 +101,13 @@ AI / Machine Learning
 Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlserver&theme=dark" /> </p>
 
-📊 GitHub Statistics
+##📊 GitHub Statistics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakGaurkhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakGaurkhede&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakGaurkhede&theme=tokyonight&hide_border=true&layout=compact" /> </div>
-📈 Activity Graph
+##📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakGaurkhede&theme=tokyo-night&hide_border=true" width="95%" /> </div>
-🐍 Contribution Snake
+##🐍 Contribution Snake
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/output/github-contribution-grid-snake.svg"> </picture>
-🧩 Competitive Programming
+##🧩 Competitive Programming
 <div align="center"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" /> </div>
 🏆 Achievements
 📄 Research Paper Published on Oral Cancer Detection using VGG16
@@ -122,7 +122,7 @@ Large Language Models (LLMs)
 AWS Cloud Architecture
 Kubernetes
 Advanced Data Engineering
-📫 Connect With Me
+##📫 Connect With Me
 <p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/SarthakGaurkhede"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> <div align="center">
 ⭐ If you like my projects, consider giving them a star!
@@ -131,7 +131,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 GITHUB STATS — 3-COLUMN GRID                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-📊 GitHub Stats
+##📊 GitHub Stats
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" />
@@ -145,7 +145,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               LIVE CONTRIBUTION GRAPH (SNAKE)                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🐍 Contribution Snake
+##🐍 Contribution Snake
 <div align="center">
 <!-- Option A: Snake eating your contributions (requires GitHub Actions) -->
 <picture>
@@ -158,7 +158,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              LIVE COMMIT / ACTIVITY GRAPH                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-📈 Activity Graph
+##📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF" width="98%" />
 </div>
@@ -166,7 +166,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              TROPHY SHOWCASE                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🏆 GitHub Trophies
+##🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
@@ -174,7 +174,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               FEATURED PINNED PROJECTS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🚀 Featured Projects
+##🚀 Featured Projects
 <div align="center">
 <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true&show_owner=true" />
@@ -193,7 +193,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 WakaTime CODING STATS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-⏱️ Coding Activity (Last 7 Days via WakaTime)
+##⏱️ Coding Activity (Last 7 Days via WakaTime)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
 </div>
@@ -204,7 +204,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 METRICS OVERVIEW (ADVANCED)                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-📋 Profile Metrics
+##📋 Profile Metrics
 <!-- 
   ADVANCED: Use lowlighter/metrics GitHub Action to generate this image.
   Add this to your profile repo's GitHub Actions workflow:
@@ -217,7 +217,7 @@ Advanced Data Engineering
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  ACHIEVEMENT BADGES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🎖️ Achievements & Certifications
+##🎖️ Achievements & Certifications
 <div align="center">
 BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web Services2024🐳Docker Certified AssociateDocker Inc.2024🤖TensorFlow Developer CertificateGoogle2023⚛️Meta Front-End DeveloperMeta2023
 </div>
@@ -225,7 +225,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              DSA / COMPETITIVE PROGRAMMING                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🧩 Competitive Programming
+##🧩 Competitive Programming
 <div align="center">
 <a href="https://leetcode.com/YOUR_USERNAME">
   <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap&hide=ranking" width="60%" />
@@ -248,7 +248,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  OPEN SOURCE CONTRIBUTIONS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🌍 Open Source Contributions
+##🌍 Open Source Contributions
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
 </div>
@@ -256,7 +256,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  BLOG / LATEST CONTENT                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-✍️ Latest Blog Posts
+##✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- This section auto-updates via GitHub Action: blog-post-workflow -->
 <!-- Add workflow: https://github.com/gautamkrishnar/blog-post-workflow -->
@@ -271,7 +271,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   CONNECT WITH ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🤝 Connect With Me
+##🤝 Connect With Me
 <div align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -305,7 +305,7 @@ BadgeCertificationIssued ByYear☁️AWS Certified Solutions ArchitectAmazon Web
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   SUPPORT / BUY ME COFFEE                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-☕ Support My Work
+##☕ Support My Work
 <div align="center">
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
