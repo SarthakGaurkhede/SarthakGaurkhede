@@ -60,27 +60,19 @@ interests:
 <!--                 GITHUB STATS — 3-COLUMN GRID                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-Deep Learning • TensorFlow • OpenCV • Medical Imaging
+## 🚀 Featured Projects
+
+🧠 Oral Cancer Detection using VGG16
 
 🤖 Multilingual AI Customer Support Chatbot
 
-NLP • Flask • Python • Generative AI
-
 👁️ Ocular Disease Prediction System
-
-Machine Learning • Healthcare AI • Computer Vision
 
 📊 Telecom Customer Analytics Pipeline
 
-PySpark • SQL • Power BI • AWS
-
 ☁️ AWS Cloud Web Application
 
-Amazon S3 • DynamoDB • EC2
-
 🩺 Ayurveda-Based Personalized Health Prediction
-
-Machine Learning • Genetic Algorithms
 
 🛠️ Tech Stack
 Languages
