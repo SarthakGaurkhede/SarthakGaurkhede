@@ -84,7 +84,7 @@ interests:
 </p>
 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,html,css,flask,firebase&theme=dark" />
 </p>
 ⚙️ Backend & Databases
 <p align="center">
@@ -96,10 +96,8 @@ interests:
 </p>
 AI / Machine Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas&theme=dark" /> </p> 
-Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,flask,firebase&theme=dark" /> </p>
 Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlserver&theme=dark" /> </p>
 Cloud & DevOps
 <p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git&theme=dark" /> </p>
 📊 GitHub Statistics
