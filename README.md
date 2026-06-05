@@ -167,9 +167,9 @@ interests:
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/SarthakGaurkhede">
-    <img src="https://img.shields.io/badge/LeetCode-000+%20Problems-FFA116?style=for-the-badge&logo=LeetCode&logoColor=FFA116" />
-  </a>
+  <a href="https://leetcode.com/u/SarthakGaurkhede/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://codeforces.com/profile/SarthakGaurkhede">
     <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
