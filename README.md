@@ -78,7 +78,11 @@ interests:
 <!--                   TECH STACK / SKILLS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 🛠️ Tech Stack & Tools
-💻 Languages <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,rust&theme=dark" /> </p>
+<p></p>
+💻 Languages 
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,java,js,rust&theme=dark" /> 
+</p>
 
 🎨 Frontend
 <p align="center">
