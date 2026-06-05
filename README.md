@@ -185,7 +185,7 @@ interests:
 ## ⏱️ Coding Activity (WakaTime)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarthakGaurkhede&theme=tokyonight" />
 </div>
 
 > 💡 Connect your WakaTime account and add the WakaTime plugin to your IDE to enable live coding time tracking.
