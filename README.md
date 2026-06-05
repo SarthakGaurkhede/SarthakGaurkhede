@@ -109,7 +109,7 @@ Databases
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK / SKILLS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-##   📈 Activity Graph
+## 📈 Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakGaurkhede&theme=tokyo-night&hide_border=true" width="95%" /> </div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK / SKILLS                         -->
