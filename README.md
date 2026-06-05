@@ -74,6 +74,27 @@ interests:
 
 🩺 Ayurveda-Based Personalized Health Prediction
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK / SKILLS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+🛠️ Tech Stack & Tools
+💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,php&theme=dark" />
+</p>
+🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,html,css&theme=dark" />
+</p>
+⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql,postgres,mongodb,redis&theme=dark" />
+</p>
+☁️ Cloud, DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx&theme=dark" />
+</p>
+
 🛠️ Tech Stack
 Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" /> </p>
@@ -146,27 +167,6 @@ Advanced Data Engineering
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF" width="98%" />
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK / SKILLS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🛠️ Tech Stack & Tools
-💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,php&theme=dark" />
-</p>
-🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,html,css&theme=dark" />
-</p>
-⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql,postgres,mongodb,redis&theme=dark" />
-</p>
-☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx&theme=dark" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              TROPHY SHOWCASE                                   -->
