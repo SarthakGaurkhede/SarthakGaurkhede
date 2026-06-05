@@ -161,7 +161,7 @@ interests:
 ## 🧩 Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/SarthakGaurkhede">
+  <a href="https://leetcode.com/u/SarthakGaurkhede">
     <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap&hide=ranking" width="60%" />
   </a>
 </div>
