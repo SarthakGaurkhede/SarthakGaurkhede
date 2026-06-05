@@ -80,7 +80,7 @@ interests:
 🛠️ Tech Stack & Tools
 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,rust&theme=dark" />
 </p>
 🎨 Frontend
 <p align="center">
@@ -92,14 +92,10 @@ interests:
 </p>
 ☁️ Cloud, DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx,git&theme=dark" />
 </p>
-
-🛠️ Tech Stack
-Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" /> </p>
 AI / Machine Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas&theme=dark" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/> </p>
 Web Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,flask,firebase&theme=dark" /> </p>
 Databases
