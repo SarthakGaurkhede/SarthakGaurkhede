@@ -167,7 +167,7 @@ interests:
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/SarthakGaurkhede">
+  <a href="https://leetcode.com/u/SarthakGaurkhede">
     <img src="https://img.shields.io/badge/LeetCode-000+%20Problems-FFA116?style=for-the-badge&logo=LeetCode&logoColor=FFA116" />
   </a>
   &nbsp;
