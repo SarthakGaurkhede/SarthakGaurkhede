@@ -39,11 +39,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Your Full Name
-location: "City, Country 🌍"
+name: Sarthak Khushal Gaurkhede
+location: "Nagpur, India 🌍"
 role: "Full Stack Developer"
-company: "@ Your Company / Open to Work"
-education: "B.Tech Computer Science — Your University"
+company: "Open to Work"
+education: "B.Tech Computer Science — DMIHER"
 
 currently:
   - "🔭 Building: [Your current project]"
