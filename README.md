@@ -98,8 +98,7 @@ AI / Machine Learning
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas&theme=dark" /> </p> 
 Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlserver&theme=dark" /> </p>
-Cloud & DevOps
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git&theme=dark" /> </p>
+
 📊 GitHub Statistics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakGaurkhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakGaurkhede&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakGaurkhede&theme=tokyonight&hide_border=true&layout=compact" /> </div>
 📈 Activity Graph
