@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarthak%20Gaurkhede&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<table>
+<tr>
+<td valign="top"><img src="./sarthak-ascii.svg" width="370" alt="Sarthak Gaurkhede — ASCII portrait" /></td>
+<td valign="top"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarthak%20Gaurkhede&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" /></td>
+</tr>
+</table>
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
