@@ -10,15 +10,16 @@
     />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarthakGaurkhede&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/SarthakGaurkhede?style=for-the-badge&logo=github"/>
+</p>
 </td>
 </tr>
 </table>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarthakGaurkhede&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/SarthakGaurkhede?style=for-the-badge&logo=github"/>
-</p>
+
 
 ---
 
