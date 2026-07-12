@@ -281,16 +281,6 @@ why it is not working
 </div>
 
 ---
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=[SarthakGaurkhede](https://github.com/SarthakGaurkhede)&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
----
-
-[![](https://komarev.com/ghpvc/?username=https://github.com/SarthakGaurkhede&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## ☕ Support My Work
 
 <div align="center">
