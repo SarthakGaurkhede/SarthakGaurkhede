@@ -92,7 +92,10 @@ interests:
 
 **💻 Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html&theme=dark" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
 </p>
 
 **🎨 Frontend**
@@ -100,24 +103,40 @@ interests:
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass,html,css,flask,firebase&theme=dark" />
 </p>
 
-**⚙️ Backend & Databases**
+**⚙️ Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql&theme=dark" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
 </p>
 
 **☁️ Cloud, DevOps & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,linux,nginx,git,git,jenkins,vercel&theme=dark" />
 </p>
 
 **🤖 AI / Machine Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
+
 
 **🗄️ Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlserver&theme=dark" />
+</p>
+
+**🛠️ Developer Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
 </p>
 
 ---
