@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AI Learning Platform",
+    "repo": "SarthakGaurkhede/AI-Based-Adaptive-Learning-Platform-using-Springboot",
+    "description": "AI-based adaptive learning platform with knowledge gap detection",
+    "tags": ["Java", "Spring Boot", "AI"]
+  },
+  {
+    "name": "Hospital Management System",
+    "repo": "SarthakGaurkhede/Hospital-Management-System",
+    "description": "A system to manage hospital records, patients, and staff",
+    "tags": ["Java", "MySQL"]
+  },
+  {
+    "name": "GPT Deployment & Stress Testing",
+    "repo": "SarthakGaurkhede/Deploying-and-Stress-Testing-a-GPT-Model-on-an-API",
+    "description": "Deploying and stress testing a GPT model exposed via an API",
+    "tags": ["Python", "API", "LLM"]
+  },
+  {
+    "name": "Crafting Intelligent Conversations",
+    "repo": "SarthakGaurkhede/Crafting-Intelligent-Conversations",
+    "description": "Building intelligent, context-aware conversational AI",
+    "tags": ["Python", "NLP"]
+  }
+]
