@@ -72,17 +72,17 @@ interests:
 | 🩺 **Ayurveda-Based Personalized Health Prediction** | ML-driven health recommendation system |
 
 <div align="center">
-  <a href="https://github.com/SarthakGaurkhede/PROJECT_1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=PROJECT_1&theme=tokyonight&hide_border=true&show_owner=true" />
+  <a href="https://github.com/SarthakGaurkhede/AI-Based-Adaptive-Learning-Platform-using-Springboot">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=AI-Based-Adaptive-Learning-Platform-using-Springboot&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/SarthakGaurkhede/PROJECT_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=PROJECT_2&theme=tokyonight&hide_border=true&show_owner=true" />
+  <a href="https://github.com/SarthakGaurkhede/Hospital-Management-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Hospital-Management-System&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/SarthakGaurkhede/PROJECT_3">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=PROJECT_3&theme=tokyonight&hide_border=true&show_owner=true" />
+  <a href="https://github.com/SarthakGaurkhede/Deploying-and-Stress-Testing-a-GPT-Model-on-an-API">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Deploying-and-Stress-Testing-a-GPT-Model-on-an-API&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/SarthakGaurkhede/PROJECT_4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=PROJECT_4&theme=tokyonight&hide_border=true&show_owner=true" />
+  <a href="https://github.com/SarthakGaurkhede/Crafting-Intelligent-Conversations">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Crafting-Intelligent-Conversations&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
 </div>
 
@@ -224,7 +224,7 @@ interests:
 ## 🌍 Open Source Contributions
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=[SarthakGaurkhede](https://github.com/SarthakGaurkhede)&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SarthakGaurkhede&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
 </div>
 
 ---
