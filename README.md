@@ -62,28 +62,8 @@ interests:
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🧠 **Oral Cancer Detection using VGG16** | Deep learning model for early cancer detection |
-| 🤖 **Multilingual AI Customer Support Chatbot** | AI-powered multilingual support system |
-| 👁️ **Ocular Disease Prediction System** | Computer vision for eye disease detection |
-| 📊 **Telecom Customer Analytics Pipeline** | End-to-end analytics pipeline |
-| ☁️ **AWS Cloud Web Application** | Scalable cloud-native web app |
-| 🩺 **Ayurveda-Based Personalized Health Prediction** | ML-driven health recommendation system |
-
 <div align="center">
-  <a href="https://github.com/SarthakGaurkhede/AI-Based-Adaptive-Learning-Platform-using-Springboot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=AI-Based-Adaptive-Learning-Platform-using-Springboot&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/SarthakGaurkhede/Hospital-Management-System">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Hospital-Management-System&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/SarthakGaurkhede/Deploying-and-Stress-Testing-a-GPT-Model-on-an-API">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Deploying-and-Stress-Testing-a-GPT-Model-on-an-API&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/SarthakGaurkhede/Crafting-Intelligent-Conversations">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakGaurkhede&repo=Crafting-Intelligent-Conversations&theme=tokyonight&hide_border=true&show_owner=true" />
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/SarthakGaurkhede/SarthakGaurkhede/projects/projects.svg" alt="Projects" />
 </div>
 
 ---
