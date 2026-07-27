@@ -185,7 +185,6 @@ interests:
 </div>
 
 
-why it is not working
 ---
 
 ## 🧩 Competitive Programming
