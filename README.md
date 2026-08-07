@@ -135,7 +135,7 @@ interests:
   &nbsp;&nbsp;
   <img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarthakGaurkhede&theme=tokyonight" />
 </div>
-
+<!--
 ---
 
 ## 🏆 GitHub Trophies
@@ -143,7 +143,7 @@ interests:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SarthakGaurkhede&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
-
+-->
 ---
 
 ## 📈 Activity Graph
@@ -188,7 +188,7 @@ interests:
     <img src="https://img.shields.io/badge/HackerRank-5⭐-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
-
+<!--
 ---
 
 ## ⏱️ Coding Activity (WakaTime)
@@ -206,7 +206,7 @@ interests:
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=SarthakGaurkhede&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
 </div>
-
+-->
 ---
 
 ## 🏆 Achievements & Certifications
